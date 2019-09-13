@@ -1,0 +1,19 @@
+build-environment	1.6	true
+build-failure-analyzer	1.20.0	true
+build-metrics	1.3	true
+build-monitor-plugin	1.12+build.201805070054	true
+build-monitor-plugin	1.12+build.201805070054	true
+build-publisher	1.22	true
+build-time-blame	1.2.0	true
+build-timeout	1.19	true
+build-with-parameters	1.4	true
+global-build-stats	1.5	true
+groovy-postbuild	2.5	true
+pipeline-build-step	2.7	true
+
+
+backup	1.6.1	true
+backup-interrupt-plugin	1.0	true
+periodicbackup	1.5	true
+
+deploy	1.13	true
